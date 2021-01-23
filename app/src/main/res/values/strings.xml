@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Current Weather</string>
+    <string name="enter_text">Enter a City…</string>
+    <string name="check_weather">Check Weather!</string>
+    <string name="logo_source">https://www.freelogodesign.org/</string>
+</resources>
